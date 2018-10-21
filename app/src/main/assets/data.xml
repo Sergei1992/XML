@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data type="keymap">
+    <mapping category="Remember these Shortcuts">
+        <description>Smart code completion</description>
+        <shortcut>Ctrl + Shift + Space</shortcut>
+    </mapping>
+    <mapping category="Debugging">
+        <description>Evaluate expression</description>
+        <shortcut>Alt + F8</shortcut>
+    </mapping>
+</data>
